@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo-api-deployment\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo\\Demo\\Demo.csproj",
+      "projectPath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo-api-deployment\\Demo\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\Noé\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo\\Demo\\obj\\",
+      "outputPath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo-api-deployment\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Noé\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q75p3I719uTsRzQWixg4xLxvPyDcPmwZVz5au+3NEg9n4VAGe63gqeZqGL8MpgQLGQoiOVEd23Mh1/wufvdpwQ==",
+  "dgSpecHash": "9yDv7jYJhSFy2akF7eQf2tmFyszfRJAso7Jiw6GjWEBMlQXW6o418uGvbbxJ0iJRFOTNe6nGrYcxdlYm0OWN6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\Users\\Noé\\Desktop\\repos\\Demo\\Demo-api-deployment\\Demo\\Demo\\Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
